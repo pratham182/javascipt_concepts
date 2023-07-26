@@ -11,9 +11,15 @@ hello();
 
 //xo();
 
-let xo=function (){
+//hositing
+xo();
+function xo (){
     console.log("hello");
     }
 
-    xo();
+    
     console.log(xo);
+
+
+    console.log(q);
+    var q=10;
